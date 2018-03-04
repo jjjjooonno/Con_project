@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="968f27b1-c87a-4c50-9ce0-5a54bfe454d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cleaned_data.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20133.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20134.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20141.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20142.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20143.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20144.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20151.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20152.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20153.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20154.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/나이 성별 입력하면 위험요소 나오게.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Project.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colnames.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20161.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20162.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20163.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20164.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20171.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20172.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20173.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/20174.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EDA.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eda2.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,7 +18,7 @@
       <file leaf-file-name="data1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="0">
               <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
@@ -51,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colnames.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="colnames.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/colnames.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="360">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -66,11 +42,20 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="38" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eda2.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eda2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="3" />
             </state>
           </provider>
         </entry>
@@ -81,6 +66,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -93,6 +79,8 @@
         <option value="$PROJECT_DIR$/colnames.py" />
         <option value="$PROJECT_DIR$/data1.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/EDA.ipynb" />
+        <option value="$PROJECT_DIR$/eda2.ipynb" />
       </list>
     </option>
   </component>
@@ -154,7 +142,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Jupyter Notebook.Project">
+    <configuration name="Project" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
     <configuration name="colnames" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,10 +210,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.data1" />
       <item index="1" class="java.lang.String" itemvalue="Python.colnames" />
       <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Jupyter Notebook.Project" />
     </list>
     <recent_temporary>
       <list size="3">
@@ -390,19 +395,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="0">
           <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
@@ -412,11 +407,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/colnames.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="360">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDA.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eda2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
         </state>
       </provider>
     </entry>
